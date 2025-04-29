@@ -28,8 +28,8 @@ Ideal for actions like submitting forms, uploading files, or signing in.
 ## Usage
 
 ### 1. Add LoadingButton to your XML
-
-```xml
+xml
+```
 <com.example.loadingbutton.LoadingButton
     android:id="@+id/buttonSimple"
     android:layout_width="wrap_content"
@@ -37,10 +37,11 @@ Ideal for actions like submitting forms, uploading files, or signing in.
     android:text="Simple Action"
     android:backgroundTint="@color/neutral_light_gray"
     android:layout_marginBottom="24dp" />
-
+```
+  
 ### 2. Control the button from your Java code
-
-```Java
+Java
+```
 LoadingButton buttonSimple = findViewById(R.id.buttonSimple);
 
 buttonSimple.setLoadingText("Loading...");
@@ -53,7 +54,7 @@ buttonSimple.setOnClickListener(v -> {
         buttonSimple.hideLoading();
     }, 2000); // Simulated loading
 });
-
+```
 
 How It Works
 	•	Normal State:
