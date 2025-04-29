@@ -8,8 +8,8 @@ Ideal for actions like submitting forms, uploading files, or signing in.
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b483739-0afa-4771-a811-d58771b98192" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ea2b44a0-c13c-4a20-adca-62f57072af54" width="45%" />
+  <img src="https://github.com/user-attachments/assets/7b483739-0afa-4771-a811-d58771b98192" width="45%" height="400" />
+  <img src="https://github.com/user-attachments/assets/ea2b44a0-c13c-4a20-adca-62f57072af54" width="45%" height="400" />
 </p>
 
 
