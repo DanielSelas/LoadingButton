@@ -8,8 +8,10 @@ Ideal for actions like submitting forms, uploading files, or signing in.
 ## Demo
 
 <p align="center">
-  <img src="URL_TO_IMAGE_BEFORE_CLICK" width="45%" />
-  <img src="URL_TO_IMAGE_AFTER_CLICK" width="45%" />
+  <img src="<img width="448" alt="Screenshot 2025-04-29 at 10 37 28" src="https://github.com/user-attachments/assets/817507f0-553f-4f95-b3cf-173680cdfa3d" />
+" width="45%" />
+  <img src="<img width="428" alt="Screenshot 2025-04-29 at 10 38 31" src="https://github.com/user-attachments/assets/a4834fb7-ffb5-45a3-9134-40b3f6792201" />
+" width="45%" />
 </p>
 
 ---
