@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="pastel_green">#B7E4C7</color>
+    <color name="pastel_blue">#AEDFF7</color>
+    <color name="pastel_purple">#D7C4F1</color>
+    <color name="neutral_light_gray">#E0E0E0</color>
+
+</resources>
